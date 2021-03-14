@@ -1,24 +1,24 @@
 ---
 
 layout: recipe
-title: "Sweet red lentil and vegetable salad"
-image: red-lentil-salad.jpg
+title: "Pickled Onions (Pub Style)"
+image: Pickled-onions.jpg
 tags: fancy, vegetarian
 
 ingredients:
-- red lentils
-- vegetable broth
-- eggplant
-- zucchini
-- cherry tomatos
-- olive oil
-- pepper
-- some flavouring sauce (soy sauce, sesame oil, )
-- (optional) sesame seeds
-- (optional) honey
+- 2 pounds small boiler onions (or larger pearl onions)
+- 1 1/2 tablespoons salt
+- 3 cups quality real malt vinegar
+- 2 tablespoons honey
+- 1/2 cup granulated sugar
+- 1 teaspoon whole coriander seeds
+- 1 teaspoon mustard seeds
+- 1/2 teaspoon whole black peppercorns
+- 2 allspice berries
+- 2 whole cloves
+- 2 bay leaves
 
 directions:
-- Cook the lentils firm to the bite according to package instructions, don't forget to add vegetable broth to the water.
 - Cut eggplant and zucchini to big, but eatable slices. Marinate in olive oil, pepper and the flavouring sauce.
 - Heat remaining marinade in a pan. When hot, add eggplant and zucchini and fry until golden brown.
 - Add cherry tomatos.
