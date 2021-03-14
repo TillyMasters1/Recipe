@@ -35,7 +35,8 @@ flavor. Once opened store them in the fridge where they will keep for 3+ months.
 the jars as described above and wipe the rims. Stick a butter knife or other long object down into the jars to ensure there
 are no air bubbles. Place the lids on the jars and screw them on. Process them in a boiling water bath canner. For pintsized jars in altitudes up to 1000 ft, process for 10 minutes (see chart in blog post for higher altitudes).
 Remove the jars from the canner and let them sit undisturbed for 24 hours. Check to make sure the lids are airtight. Then
-store them in a cool, da
+store them in a cool, dark place where they will keep for up to a year. Once opened store them in the fridge where they will
+keep for 3+ months.
 
 ---
 
