@@ -28,5 +28,5 @@ directions:
 
 Source: My imagination
 
-This tastes surprisingly good, especially when it's cold.
-Good as a barbecue salad or a pre-made dish.
+English Pickled Onions! As versatile as they are tasty, 
+you'll want to make a double batch because they're thoroughly delicious!
