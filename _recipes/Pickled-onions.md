@@ -26,7 +26,5 @@ directions:
 
 ---
 
-Source: My imagination
-
 English Pickled Onions! As versatile as they are tasty, 
 you'll want to make a double batch because they're thoroughly delicious!
