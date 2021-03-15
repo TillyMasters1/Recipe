@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "German Cake"
+title: "Steve's German Cake"
 image: German-Cake.jpg
 
 ingredients:
@@ -22,5 +22,4 @@ directions:
 
 ---
 
-English Pickled Onions! As versatile as they are tasty, 
-you'll want to make a double batch because they're thoroughly delicious!
+Recipe from my Grandma Masters 
