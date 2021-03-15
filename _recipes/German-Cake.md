@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Steve's German Cake"
+title: "Steve's (German) Streusel Cake"
 image: German-Cake.jpg
 
 ingredients:
@@ -11,7 +11,7 @@ ingredients:
 - 2 beaten eggs
 - 1 1/2 cups milk
 - 1 cup sultanas
-- 4 cups S.R. Flour
+- 4 cups Self Raising Flour
 
 directions:
 - Beat butter into potatoes and add ingredients in order given, going from top to bottom down the page.
