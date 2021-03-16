@@ -6,7 +6,6 @@ description: The plain text recipe database for hackers
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
 github_username:  tillymasters1
 
 # Build settings
