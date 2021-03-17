@@ -1,18 +1,38 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-  .btn {
-    background-color: DodgerBlue;
-    border: none;
-    color: white;
-    padding: 12px 16px;
-    font-size: 16px;
-    cursor: pointer;
-    position: absolute;
-    left: 85%;
-  }
+  /* Container needed to position the button. Adjust the width as needed */
+.container {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
   </style>
 
 <nav class="bg-blue-tile mt6">
     <h1 class="nav-title title-shadow white">Family Recipes</h1>
+    <div class="container"></div>
+    <img src="tile.png" alt="Snow" style="width:100%">
     <a href="{{ site.baseurl }}/"><button class="btn"><i class="fa fa-home"></i>Home</button></a>
+    </div>
 </nav>
