@@ -52,14 +52,12 @@ layout: default
       {% if page.ingredients %}
       <hi>Ingredients</hi>
       <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
-      <ul itemprop="ingredients">
         <!-- list ingredients that make up recipe -->
         <hi>Ingredients</hi>
         <hi></hi>
         {% for ingredient in page.ingredients %}
         <li itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
         {% endfor %}
-      </ul>
       {% endif %}
 
     </div>
@@ -67,7 +65,7 @@ layout: default
     <div class="sm-col sm-col-6 lg-col-6">
       <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h4>
         <hi>Method</hi>
-        <hi></hi>
+        <h1></h1>
         {% for direction in page.directions %}
         {{ direction | markdownify }}
         {% endfor %}
