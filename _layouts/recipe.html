@@ -54,6 +54,8 @@ layout: default
       <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
       <ul itemprop="ingredients">
         <!-- list ingredients that make up recipe -->
+        <hi>Ingredients</hi>
+        <hi></hi>
         {% for ingredient in page.ingredients %}
         <li itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
         {% endfor %}
@@ -65,6 +67,7 @@ layout: default
     <div class="sm-col sm-col-6 lg-col-6">
       <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h4>
         <hi>Method</hi>
+        <hi></hi>
         {% for direction in page.directions %}
         {{ direction | markdownify }}
         {% endfor %}
