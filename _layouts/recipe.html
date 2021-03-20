@@ -52,6 +52,7 @@ layout: default
       {% if page.ingredients %}
       <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
       <ul itemprop="ingredients">
+        <hi>Ingredients</hi>
         <!-- list ingredients that make up recipe -->
         {% for ingredient in page.ingredients %}
         <li itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
@@ -62,7 +63,7 @@ layout: default
     </div>
 
     <div class="sm-col sm-col-6 lg-col-6">
-      <hi>gh</hi>
+      <hi>Method</hi>
       <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h4>
       <ul itemprop="recipeInstructions">
         {% for direction in page.directions %}
