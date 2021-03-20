@@ -62,11 +62,11 @@ layout: default
 
     </div>
 
-    <div class="sm-col sm-col-6">
+    <div class="sm-col sm-col-6 lg-col-6">
       <hi>Method</hi>
       <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h4>
         {% for direction in page.directions %}
-        <li>{{ direction | markdownify }}</li>
+        <li>{{ markdownify }}</li>
         {% endfor %}
     </div>
 
