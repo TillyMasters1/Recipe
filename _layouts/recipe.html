@@ -50,23 +50,22 @@ layout: default
       {% endif %}
 
       {% if page.ingredients %}
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
       <hi>Ingredients</hi>
+      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
       <ul itemprop="ingredients">
         <!-- list ingredients that make up recipe -->
         {% for ingredient in page.ingredients %}
         <li itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
         {% endfor %}
-        <h1></h1>
       </ul>
       {% endif %}
 
     </div>
 
     <div class="sm-col sm-col-6 lg-col-6">
-      <hi>Method</hi>
       <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h4>
         {% for direction in page.directions %}
+        <hi>Method</hi>
         {{ direction | markdownify }}
         {% endfor %}
     </div>
