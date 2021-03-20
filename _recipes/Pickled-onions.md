@@ -3,7 +3,6 @@
 layout: recipe
 title: "Pickled Onions (Pub Style)"
 image: Pickled-onions.jpg
-tags: fancy, vegetarian
 
 ingredients:
 - 2 pounds small boiler onions (or larger pearl onions)
