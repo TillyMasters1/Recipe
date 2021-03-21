@@ -1,29 +1,21 @@
 ---
 
 layout: recipe
-title: "Lemonade"
+title: "Lemon Syrup"
 
 ingredients:
-- 1 ½ pounds lean ground beef
-- ½ onion, finely chopped
-- ½ cup shredded Colby Jack or Cheddar cheese
-- 1 teaspoon soy sauce
-- 1 teaspoon Worcestershire sauce
-- 1 egg
-- 1 (1 ounce) envelope dry onion soup mix
-- 1 clove garlic, minced
-- 1 tablespoon garlic powder
-- 1 teaspoon dried parsley
-- 1 teaspoon dried basil
-- 1 teaspoon dried oregano
-- ½ teaspoon crushed dried rosemary
-- salt and pepper to taste
+- 12 oranges or lemons
+- Rind of 8 lemons
+- 1 oz Epsom salts
+- 3 ozs citric acid
+- 6 lb sugar
+- 3 pints boiling water
 
 directions:
-- Preheat a grill for high heat.
-- In a large bowl, mix together the ground beef, onion, cheese, soy sauce, Worcestershire sauce, egg, onion soup mix, garlic, garlic powder, parsley, basil, oregano, rosemary, salt, and pepper. Form into 4 patties.
-- Grill patties for 5 minutes per side on the hot grill, or until well done. Serve on buns with your favorite condiments.
+- Grate the rind of 8 lemons.
+- Juice all the fruit To this juice add the Epson salts, citric acid and 6lbs sugar.
+- Pour  the 3 pints of boiling water over this and stir the whole lot until the sugar is completely dissolved.
+- Cover and leave for 12 hours. Strain the rind off and bottle.
 
 ---
 
-Recipe from my Grandma Masters 
