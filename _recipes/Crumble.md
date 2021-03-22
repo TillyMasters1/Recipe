@@ -3,6 +3,8 @@
 layout: recipe
 title: "Crumble"
 
+image: Crumble.jpg
+
 ingredients:
 - Honeycrisp Apples
 - Cinnamon
