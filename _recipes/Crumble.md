@@ -15,6 +15,9 @@ ingredients:
 - Almond flour
 - Walnut butter or pecan butter
 
+ingredients1:
+- Lemon juice
+
 directions:
 - Make the filling. Slice the apples into 1/4 inch wedges and add to a large bowl. Add the spices, sugar, lemon juice and pecans. I finely chop these since my husband and daughter aren’t big fans of chunks of nuts. Stir for a good couple of minutes until the apples are evenly coated. Set aside.
 - Make the topping. To a medium bowl, add the syrup, walnut butter and cinnamon and stir until smooth. Add the oats and almond flour and mix for a couple of minutes until very thick and sticky, as pictured.
