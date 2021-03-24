@@ -3,7 +3,7 @@
 layout: recipe
 title: "Peach Crisp"
 image: Crumble.jpg
-servingSize: "1"
+servingSize: 1
 
 ingredients:
 - Honeycrisp Apples
