@@ -2,7 +2,6 @@
 
 layout: recipe
 title: "Peach Crisp"
-
 image: Crumble.jpg
 
 ingredients:

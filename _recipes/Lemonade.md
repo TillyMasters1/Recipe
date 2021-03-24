@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Lemon Syrup"
+image: Lemon-Cordial.jpg
 
 ingredients:
 - 12 oranges or lemons
