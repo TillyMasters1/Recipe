@@ -55,6 +55,18 @@ layout: default
       </ul>
       {% endif %}
 
+      {% if page.ingredients1 %}
+      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
+      <ul>
+        <!-- list ingredients that make up recipe -->
+        <hi>Ingredients</hi>
+        <h1></h1>
+        {% for ingredient in page.ingredients1 %}
+        <li itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
     </div>
 
     <div class="sm-col sm-col-6 lg-col-6">
