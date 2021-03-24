@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Crumble"
+title: "Peach Crisp"
 
 image: Crumble.jpg
 
