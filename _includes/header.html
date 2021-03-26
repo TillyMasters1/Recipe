@@ -4,6 +4,21 @@
 <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css" integrity="sha384-b92sF+wDNTHrfEtRaYo+EpcA8FUyHOSXrdxKc9XB9kaaX1rSQAgMevW6cYeE5Bdv">
 <link rel="stylesheet" href="{{ "/css/gochowdown.min.17e614549188e7fdfd0cf0643a9ab5dca2f327295d531d696fb9e9a7262b7be6.css" | prepend: site.baseurl }}">
 
+@media all and (max-width: 300px) {
+  <nav class="navigation pure-g">
+  
+    <section class="pure-u-1-3">
+      <h1 class="nav-title title-shadow white">Family Recipe's</h1>
+    </section>
+  
+    <section class="pure-u-1-3">
+      <a href="https://masters.gq/"class="title-shadow"><i class="title-shadow fa fa-home"></i> Home</a>
+    
+      <a href="{{ "/search" | prepend: site.baseurl}}"><i class="fa fa-search"></i></a>  
+  </section>
+    
+  </nav>
+}
 <nav class="navigation pure-g">
 	
 	<section class="pure-u-1-3">
