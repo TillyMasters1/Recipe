@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Best Hamburger Ever"
+title: "Hamburger"
 image: Hamburger.jpg
 
 ingredients:
@@ -26,5 +26,3 @@ directions:
 - Grill patties for 5 minutes per side on the hot grill, or until well done. Serve on buns with your favorite condiments.
 
 ---
-
-Recipe from my Grandma Masters 

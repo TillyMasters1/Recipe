@@ -3,7 +3,6 @@
 layout: recipe
 title: "Peach Crisp"
 image: Crumble.jpg
-servingSize: "1"
 
 ingredients:
 - Honeycrisp Apples
@@ -15,9 +14,6 @@ ingredients:
 - Oats
 - Almond flour
 - Walnut butter or pecan butter
-
-ingredients1:
-- Lemon juice
 
 directions:
 - Make the filling. Slice the apples into 1/4 inch wedges and add to a large bowl. Add the spices, sugar, lemon juice and pecans. I finely chop these since my husband and daughter aren’t big fans of chunks of nuts. Stir for a good couple of minutes until the apples are evenly coated. Set aside.

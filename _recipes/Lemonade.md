@@ -19,4 +19,3 @@ directions:
 - Cover and leave for 12 hours. Strain the rind off and bottle.
 
 ---
-
