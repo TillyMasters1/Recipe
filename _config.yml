@@ -1,12 +1,10 @@
 # Site settings
-title: Chowdown
+title: Recipe's
 email: ryanm0654@gmail.com
-description: The plain text recipe database for hackers
-#baseurl: "https://chowdown.io"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-github_username:  tillymasters1
+github_username: tillymasters1
 
 # Build settings
 markdown: kramdown
