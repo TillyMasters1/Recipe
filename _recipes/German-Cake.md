@@ -16,7 +16,7 @@ ingredients:
 directions:
 - Beat butter into potatoes and add ingredients in order given, going from top to bottom down the page.
 - Pour batter into large pan.
-- 2 cups P/flour, 2 cups sugar, 1/2 lb. butter and a pinch of nutmeg.  
+- 2 cups P/flour, 2 cups sugar, 227 g. butter and a pinch of nutmeg.  
 - Crumb together and sprinkle on top of batter.   
 - Bake approx. 30 mins at 400
 
