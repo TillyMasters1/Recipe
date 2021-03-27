@@ -25,7 +25,7 @@ directions:
 - Beat butter into potatoes and add ingredients in order given, going from top to bottom down the page.
 - Pour batter into large pan.
 - Crumb together crumble ingredients and sprinkle on top of batter.   
-- Bake approx. 30 mins at 400
+- Bake approx. 30 mins at 180 C
 
 ---
 
