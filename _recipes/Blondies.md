@@ -4,6 +4,8 @@ layout: recipe
 title: "Blondies"
 image: Blondies.jpg
 
+Ingredients: "Ingredients"
+
 ingredients:
 - 2/3 cup butter, softened
 - 1 1/2 cups packed brown sugar
