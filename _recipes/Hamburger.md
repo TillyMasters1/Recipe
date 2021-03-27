@@ -3,6 +3,7 @@
 layout: recipe
 title: "Hamburger"
 image: Hamburger.jpg
+Ingredients: "Ingredients"
 
 ingredients:
 - 1 ½ pounds lean ground beef
