@@ -40,11 +40,11 @@ a:hover .image{opacity:0.2;}
 .right-align{text-align:center;}
 }
 
-@media only screen and (max-width: 1110px) {
+@media only screen and (max-width: 950px) {
     .largeScreen {display: none;}
 }
 
-@media only screen and (min-width: 1110px) {
+@media only screen and (min-width: 950px) {
     .smallScreen {display: none;}
 }
 
