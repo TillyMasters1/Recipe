@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Tray-baked ricotta gnocchi with capsicum and tomatoes"
+title: "Tray-baked ricotta gnocchi"
 image: Tray-baked-ricotta-gnocchi.jpg
 Ingredients: "Ingredients"
 
