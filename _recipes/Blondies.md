@@ -3,7 +3,6 @@
 layout: recipe
 title: "Blondies"
 image: Blondies.jpg
-
 Ingredients: "Ingredients"
 
 ingredients:
