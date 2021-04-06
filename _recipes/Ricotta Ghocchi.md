@@ -14,7 +14,6 @@ ingredients:
 - Bread Improver
 - Plain Flour
 - Dried Yeast
-- Basil leaves, to serve
 
 directions:
 - 
