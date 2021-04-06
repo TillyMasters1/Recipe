@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "White Loaf"
-image: Tray-baked-ricotta-gnocchi.jpg   
+image: White-loaf.jpg   
 ingredientsimg: true       
 
 directions:
