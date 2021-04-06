@@ -4,7 +4,7 @@ layout: recipe
 title: "Tray-baked ricotta gnocchi"
 image: Tray-baked-ricotta-gnocchi.jpg
 Ingredients: "Ingredients"
-vegan: vegan.png
+vegan:
 
 ingredients:
 - 2 tbs extra virgin olive oil, plus extra to drizzle
