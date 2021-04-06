@@ -48,15 +48,21 @@ layout: default
         {% endfor %}
       </ul>
       {% endif %}
+      
+      {% if page.ingredientsimg %}
+      <img src='assets/Bread.png'/>
+      {% endif %}
 
       {% if page.ingredients %}
       <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
+      <ul>
         <!-- list ingredients that make up recipe -->
         <hi style="white-space: pre;">{{ page.Ingredients }}</hi>
         <h1></h1>
         {% for ingredient in page.ingredients %}
-        <hi itemprop="recipeIngredient" style="white-space: pre;">{{ ingredient | markdownify }}</hi>
+        <li itemprop="recipeIngredient" style="white-space: pre;">{{ ingredient | markdownify }}</li>
         {% endfor %}
+      </ul>
       {% endif %}
 
       {% if page.ingredients1 %}
