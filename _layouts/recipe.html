@@ -49,9 +49,9 @@ layout: default
       </ul>
       {% endif %}
 
-      {% for page.ingredientsimg %}
+      {% if page.ingredientsimg %}
       <img src="{{site.baseurl}}/assets/Bread.jpg" />
-      {% endfor %}
+      {% endif %}
 
       {% if page.ingredients %}
       <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
