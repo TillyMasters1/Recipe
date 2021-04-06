@@ -56,7 +56,7 @@ layout: default
         <hi style="white-space: pre;">{{ page.Ingredients }}</hi>
         <h1></h1>
         {% for ingredient in page.ingredients %}
-        <li itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
+        <li style="white-space: pre;" itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
         {% endfor %}
       </ul>
       {% endif %}
