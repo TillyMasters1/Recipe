@@ -2,6 +2,7 @@
 //# Only the main Sass file needs front matter (the dashes are enough)
 //---
 
+img{width: 15; height: 15; position: relative; z-index: -1;}
 img{width:100%;}
 .no-line-height{line-height:0;}
 ul{margin:0; padding:0; list-style:none;}
@@ -33,7 +34,7 @@ a:hover .image{opacity:0.2;}
 
 .sell .sm-col a{text-decoration:none; color:#fff; border-bottom:2px solid rgba(255,255,255,0.5);}
 
-.ratio{padding-top:50%; background-position: center center;}
+.ratio{padding-top:50%; background-position: center center; background-repeat:no-repeat;}
 
 @media all and (max-width:40em){
 .left-align{text-align:center;}
