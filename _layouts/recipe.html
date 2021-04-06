@@ -37,7 +37,7 @@ layout: default
   <!-- call up recipe and directions -->
   <div class="clearfix mt3">
 
-    <div class="sm-col sm-col-6 lg-col-6 px5">
+    <div class="sm-col sm-col-6 lg-col-6" style="white-space: pre;">
       <!-- check if it's a component-based recipe -->
       {% if page.components %}
       <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].components }}</h4>
@@ -50,7 +50,7 @@ layout: default
       {% endif %}
 
       {% if page.ingredients %}
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
+      <h4 class="blue mt0 mb2 xs-center" style="white-space: pre;">{{ site.translation[site.language].ingredients }}</h4>
       <ul>
         <!-- list ingredients that make up recipe -->
         <hi>{{ page.Ingredients }}</hi>
