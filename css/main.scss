@@ -48,6 +48,12 @@ a:hover .image{opacity:0.2;}
     .smallScreen {display: none;}
 }
 
+@media printDiv {
+ .noPrint{
+  display:none;
+ }
+}
+
 @media all and (max-width: 300px){
 .title{font-size:1.3rem; text-align:center; box-sizing:border-box; width:100%;}
 .xs-center{text-align: center}
