@@ -1231,6 +1231,7 @@ input[type=range] {
 .bg-darken-2 { background-color: rgba(0,0,0,.125) }
 .bg-darken-3 { background-color: rgba(0,0,0,.25) }
 .bg-darken-4 { background-color: rgba(0,0,0,.5) }
+.bg-darken-5 { background-color: #333333 }
 
 .border-aqua  { border-color: #7fdbff }
 .border-blue  { border-color: #007FFF }
