@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<div class="container" itemscope itemtype="http://schema.org/Recipe"></div>
 <!-- call up the image and image credit link -->
 {% for image in page.image %}
 <div class="xs-p2">
@@ -15,9 +16,10 @@ layout: default
   {% endif %}
 </div>
 {% endfor %}
+</div>
 
 <article class="post-content px2">
-  
+
 <div id="printableArea" class="container" itemscope itemtype="http://schema.org/Recipe">
 
 <!-- call up the main recipe title and content -->
