@@ -1,8 +1,9 @@
 function printDiv(divName) {
-    var printContents = document.getElementById(divName).innerHTML;
+    var printContents = document.querySelectorAll('img').forEach(img => img.remove());
     var originalContents = document.body.innerHTML;
+    printContents = document.getElementById(divName).innerHTML;
 
-    document.body.innerHTML = printContents.querySelectorAll('img').forEach(img => img.remove());
+    document.body.innerHTML = printContents;
 
     window.print();
 
