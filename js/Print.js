@@ -2,7 +2,7 @@ function printDiv(divName) {
     var printContents = document.getElementById(divName).innerHTML;
     var originalContents = document.body.innerHTML;
 
-    document.body.innerHTML = printContents.querySelectorAll('image').forEach(image => image.remove());
+    document.body.innerHTML = printContents.querySelectorAll('img').forEach(img => img.remove());
 
     window.print();
 
