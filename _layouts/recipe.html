@@ -37,7 +37,7 @@ layout: default
   <!-- call up recipe and directions -->
   <div id="printableArea" class="clearfix mt3">
 
-    <div class="sm-col sm-col-6 lg-col-6">
+    <div id="printableArea" class="sm-col sm-col-6 lg-col-6">
       <!-- check if it's a component-based recipe -->
       {% if page.components %}
       <ul>
@@ -76,7 +76,7 @@ layout: default
 
     </div>
 
-    <div class="sm-col sm-col-6 lg-col-6">
+    <div id="printableArea" class="sm-col sm-col-6 lg-col-6">
         <hi>Method</hi>
         <h1></h1>
         {% for direction in page.directions %}
