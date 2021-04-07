@@ -40,7 +40,6 @@ layout: default
     <div class="sm-col sm-col-6 lg-col-6">
       <!-- check if it's a component-based recipe -->
       {% if page.components %}
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].components }}</h4>
       <ul>
         <!-- list components that make up recipe -->
         {% for component in page.components %}
@@ -50,28 +49,26 @@ layout: default
       {% endif %}
 
       {% if page.ingredientsimg %}
-      <img src="{{site.baseurl}}/assets/Bread.jpg" style="right: 50px; top: 50px;" />
+      <img src="{{site.baseurl}}/assets/Bread.jpg"/>
       {% endif %}
 
       {% if page.ingredients %}
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
       <ul>
         <!-- list ingredients that make up recipe -->
         <hi style="white-space: pre;">{{ page.Ingredients }}</hi>
         <h1></h1>
         {% for ingredient in page.ingredients %}
-        <li itemprop="recipeIngredient" style="white-space: pre;">{{ ingredient | markdownify }}</li>
+        <li itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
         {% endfor %}
       </ul>
       {% endif %}
 
-      {% if page.ingredients1 %}
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
+      {% if page.2nd-ingredients %}
       <ul>
         <!-- list ingredients that make up recipe -->
-        <hi>{{ page.Ingredients1 }}</hi>
+        <hi>{{ page.2nd-Ingredients }}</hi>
         <h1></h1>
-        {% for ingredient in page.ingredients1 %}
+        {% for ingredient in page.2nd-ingredients %}
         <li itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
         {% endfor %}
       </ul>
@@ -80,7 +77,6 @@ layout: default
     </div>
 
     <div class="sm-col sm-col-6 lg-col-6">
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h4>
         <hi>Method</hi>
         <h1></h1>
         {% for direction in page.directions %}

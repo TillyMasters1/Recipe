@@ -4,7 +4,7 @@ layout: recipe
 title: "Steve's (German) Streusel Cake"
 image: German-Cake.jpg
 Ingredients: "Ingredients (Cake)"
-Ingredients1: "Ingredients (Crumble)"
+2nd-Ingredients: "Ingredients (Crumble)"
 
 ingredients:
 - 2 tblspns butter
@@ -15,7 +15,7 @@ ingredients:
 - 1 cup sultanas
 - 4 cups Self Raising Flour
 
-ingredients1:
+2nd-ingredients:
 - 2 cups plain flour
 - 2 cups sugar
 - 230 g butter
