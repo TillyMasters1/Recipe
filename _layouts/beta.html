@@ -280,12 +280,6 @@ nav .label{
 		</svg>
 		<p class="label">Recipes</p>
 	</a>
-	<a href="#" class="item search">
-		<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
-		  <path d="M19.087 18.205a4.882 4.882 0 1 0 .002-9.764 4.882 4.882 0 0 0-.002 9.764zm5.706-.292l5.726 5.726a1.216 1.216 0 0 1-.002 1.723 1.22 1.22 0 0 1-1.724.002l-5.828-5.827a7.324 7.324 0 1 1 1.829-1.624zM2 10.272c0-.674.414-1.221.913-1.221H8.41c.505 0 .913.542.913 1.22 0 .675-.414 1.222-.913 1.222H2.913c-.505 0-.913-.543-.913-1.221zm0 7.323c0-.674.414-1.221.913-1.221H8.41c.505 0 .913.542.913 1.22 0 .675-.414 1.222-.913 1.222H2.913c-.505 0-.913-.543-.913-1.221zm0 7.323c0-.674.402-1.22.914-1.22H20.31c.505 0 .915.542.915 1.22 0 .674-.402 1.221-.915 1.221H2.914c-.504 0-.914-.542-.914-1.221z" fill="#CC0000" fill-rule="nonzero"/>
-		</svg>
-		<p class="label">Search</p>
-	</a>
 	<a href="#" class="item books">
 		<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
 		  <path d="M25.568 2.5H6.43C4.814 2.5 3.5 3.86 3.5 5.476v20.877a2.934 2.934 0 0 0 2.93 2.932h19.138a2.936 2.936 0 0 0 2.932-2.932V5.476c0-1.616-1.316-2.976-2.932-2.976zM18.38 4.88h3.571v7.049l-1.041-.833a1.189 1.189 0 0 0-1.488 0l-1.042.833V4.88zM5.88 26.354V5.433a.55.55 0 0 1 .549-.552h1.832v22.024H6.43a.55.55 0 0 1-.549-.551zm20.238 0a.55.55 0 0 1-.551.552H10.643V4.88H16v9.524a1.189 1.189 0 1 0 1.935.93l2.232-1.786 2.232 1.786a1.189 1.189 0 0 0 1.258.144c.414-.2.676-.616.676-1.074V4.88h1.235a.55.55 0 0 1 .551.55v20.922z" fill="#CC0000" fill-rule="nonzero"/>
@@ -309,26 +303,11 @@ nav .label{
 <script src="/plugins/simple-jekyll-search.min.js" type="text/javascript"></script>
 
 <script>
-SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '/search.json',
-  searchResultTemplate: '<div class="recipe sm-col sm-col-6 lg-col-4 py1 pb2"><a class="block black relative mx1 text-decoration-none" href="{url}"><div class="image ratio bg-primary bg-cover" style="background-image:url({image});"></div><h3 class="title pt1 m0 bold">{title}</h3></a></div>'
-})
-</script>
-
-<script>
 
 	$( document ).ready(function() {
 
 	$(".item.recipes").click(function() {
 	    $('#slider').removeClass().addClass('recipes');
-	    $('.item').removeClass('active');
-	    $(this).addClass('active');
-	    
-	});
-
-	$(".item.search").click(function() {
 	    $('.item').removeClass('active');
 	    $(this).addClass('active');
 	    
