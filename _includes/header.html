@@ -4,9 +4,9 @@
 <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css" integrity="sha384-b92sF+wDNTHrfEtRaYo+EpcA8FUyHOSXrdxKc9XB9kaaX1rSQAgMevW6cYeE5Bdv">
 <link rel="stylesheet" href="{{ "/css/gochowdown.min.17e614549188e7fdfd0cf0643a9ab5dca2f327295d531d696fb9e9a7262b7be6.css" | prepend: site.baseurl }}">
 
+<div style="z-index: 5; position: sticky; top: 0; height:6px; background-color: #c8a2c8;"></div>
 <div>
-      <div class="smallScreen">
-        <div style="height: 50px;  border-top: 6px #c8a2c8 solid !important;"> 
+      <div style="display: flex;" class="smallScreen">
         
           <section>
             <h2 style="color: #000000; text-align: center;">Family Recipe's</h2>
@@ -17,12 +17,10 @@
           
             <a href="/search" style="color: #000000;"><i class="fa fa-search"></i></a>  
         </section>
-          
-       </div>
+
       </div>
 
-      <div class="largeScreen">
-        <div style="height: 50; display: flex; border-top: 6px #c8a2c8 solid !important;"> 
+      <div style="display: flex;" class="largeScreen">
           <section class="pure-u-3" style="height: 50px; width: 33.3333%;"></section>
         
           <section class="pure-u-3" style="height: 50px; width: 33.3333%;">
@@ -34,7 +32,6 @@
   
             <a style="float: right; margin-right:15px; color: #000000; margin-top: 1em; font-size: 20px; font-weight: bold;" href="https://masters.gq/"><i class="fa fa-home"></i> Home</a>
           </section>
-        </div>
       </div>
   </div>
 
