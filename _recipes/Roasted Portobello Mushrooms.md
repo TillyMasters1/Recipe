@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Roasted Portobello Mushrooms"
+image: roasted-portobello-mushrooms.jpg
 Ingredients: "Ingredients"
 
 ingredients:
