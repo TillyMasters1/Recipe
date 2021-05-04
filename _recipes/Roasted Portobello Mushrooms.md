@@ -1,12 +1,11 @@
 ---
 
 layout: recipe
-title: "Blondies"
-image: Blondies.jpg
+title: "Roasted Portobello Mushrooms"
 Ingredients: "Ingredients"
 
 ingredients:
-- 2/3 cup butter, softened
+- 14 ounces waxy potatoes
 - 1 1/2 cups packed brown sugar
 - 2 tsp. vanilla
 - 2 eggs
