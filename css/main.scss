@@ -42,10 +42,12 @@ a:hover .image{opacity:0.2;}
 
 @media only screen and (max-width: 950px) {
     .largeScreen {display: none;}
+    .searchpos{margin-top:-38px}
 }
 
 @media only screen and (min-width: 950px) {
     .smallScreen {display: none;}
+    .searchpos{margin-top:10px}
 }
 
 @media printDiv {
