@@ -11,7 +11,7 @@ layout: default
 
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
           <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
-            <div class="title-shadow image ratio bg-cover"{% for image in post.image %} style="background-image:url({{site.baseurl}}/images/{{ image }});"{% endfor %}></div>
+            <div style="box-shadow: 0px 5px 5px 4px #ccc; -webkit-box-shadow: 0px 5px 5px 4px #ccc;" class="image ratio bg-cover"{% for image in post.image %} style="background-image:url({{site.baseurl}}/images/{{ image }});"{% endfor %}></div>
             {% for vegan in post.vegan %} <img src='images/vegan.png' style="width: 50px; height: 50px; position: absolute; top: 8px; left: 8px;"/> {% endfor %}
             <h1 class="title p2 m0 absolute bold white bottom-0 left-0 title-shadow">{{ post.title }}</h1>
           </a>
