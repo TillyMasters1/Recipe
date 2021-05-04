@@ -2,22 +2,25 @@
 layout: default
 ---
 <style>
-  searchpos {margin-top: 10px;}
+  .searchpos {
+    margin-top: 10px;
+  }
 
   @media only screen and (max-width: 950px) {
-    searchpos {margin-top: -38px;}
+    .searchpos {margin-top: -38px;}
 }
 
 @media only screen and (min-width: 950px) {
-    searchpos {margin-top: 10px;}
+    .searchpos {margin-top: 10px;}
 }
 </style>
 
-<searchpos class="search container max-width-2">
+
+<div class="search container max-width-2 searchpos">
 		<div id="search-container">
 		<input type="text" id="search-input" placeholder="search titles or ingredients...">
 		</div>
-</searchpos>
+  </div>
 
 <div class="clearfix">
 <div style="height: 1000px;" class="recipes xs-px1 xs-mt2 center" id="results-container">
