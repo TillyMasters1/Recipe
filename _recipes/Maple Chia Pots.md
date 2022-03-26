@@ -4,6 +4,7 @@ layout: recipe
 title: "Maple Chia Pots"
 image: Maple-Chia-Pots.jpg
 Ingredients: "Ingredients"
+ms: "true"
 
 ingredients:
 - 500ml almond milk
